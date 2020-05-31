@@ -20,16 +20,16 @@
 
 // ** Thiết lập MySQL - Bạn có thể lấy các thông tin này từ host/server ** //
 /** Tên database MySQL */
-define('DB_NAME', 'b970yxtmwnqkfctk');
+define('DB_NAME', 'ws9zyhcngy3kuyzy');
 
 /** Username của database */
-define('DB_USER', 'ecuobqfo8de7gjhp');
+define('DB_USER', 'mmqrkla8ubuvzb7e');
 
 /** Mật khẩu của database */
-define('DB_PASSWORD', 'lwwy3x0crtvq6pcp');
+define('DB_PASSWORD', 'srd20k2j24gls6d5');
 
 /** Hostname của database */
-define('DB_HOST', 'ffn96u87j5ogvehy.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
+define('DB_HOST', 'un0jueuv2mam78uv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com');
 
 /** Database charset sử dụng để tạo bảng database. */
 define('DB_CHARSET', 'utf8');
